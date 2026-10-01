@@ -24,7 +24,7 @@ A Git-native, AI-readable ERD workflow for DBML — available in VS Code and Jet
 [![Google Play](https://img.shields.io/badge/Google%20Play-Download-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.onequestion.app&hl=ko)
 [![App Store](https://img.shields.io/badge/App%20Store-Download-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/kr/app/%EC%A7%88%EB%AC%B8-%ED%95%98%EB%82%98/id6760345850)
 
-[**API Server Repository**](https://github.com/think-grow-studio/one-question-api-server)
+[![API Server](https://img.shields.io/badge/GitHub-API%20Server-181717?style=for-the-badge&logo=github)](https://github.com/think-grow-studio/one-question-api-server)
 
 ---
 
