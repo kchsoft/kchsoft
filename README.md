@@ -6,7 +6,7 @@ Backend Server Developer
 
 ### DBML Canvas
 
-A Git-native, AI-readable ERD workflow for DBML — available in VS Code and JetBrains IDEs.
+AI가 설계한 DB 구조를 ERD로 확인하고 수정할 수 있는 DBML 기반 플러그인
 
 [![GitHub](https://img.shields.io/badge/GitHub-DBML%20Canvas-181717?style=for-the-badge&logo=github)](https://github.com/kchsoft/DBML-canvas)
 
