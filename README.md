@@ -1,6 +1,6 @@
 # Chang Hyeon Kim
 
-Backend Server Developer
+Backend Developer
 
 ## Projects
 
